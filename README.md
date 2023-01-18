@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hugot231
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, Javascript and Java.
-- 💞️ I’m looking to collaborate on creating a complete website with a database.
+- 🌱 I’m always learning HTML, CSS, Javascript and React
+- 💞️ I’m a .NET Developer and on my off time i am learning to trade stocks 
 - 📫 How to reach me: Email
 
 <!---
